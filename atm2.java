@@ -5,5 +5,5 @@ public class atm2 {
         for(c = 'A'; c <= 'Z'; ++c)
         System.out.print(c + " ");
     }
-
+//sadasdadsa
 }
